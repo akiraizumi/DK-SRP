@@ -1,2 +1,2 @@
 # DK-SPR
-Medical data scientist educational programs at KYOTO University.
+Medical data scientist educational program at KYOTO University.
