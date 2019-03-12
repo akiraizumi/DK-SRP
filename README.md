@@ -9,6 +9,7 @@ Jupyter Notebookをローカルで実行できない方は、コラボラトリ�
 https://colab.research.google.com/drive/1zW_Dk4neWkjHN2StKkTesJ1N2HJneING
 
 ------------------機械学習------------------
+
 ※データについてはローカルに保存した"diabetes.csv"を第一セルでアップロードしてください。
 
 ■機械学習②：クラスタリング　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
