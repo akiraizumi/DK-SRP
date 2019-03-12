@@ -7,7 +7,6 @@ Jupyter Notebookをローカルで実行できない方は、コラボラトリ�
 https://colab.research.google.com/drive/1zW_Dk4neWkjHN2StKkTesJ1N2HJneING
 
 ■機械学習②；クラスタリング
-
 https://colab.research.google.com/drive/1CYw5yqaCvIjyqYaxqX-cmbHYq8EbG2bI
 
 ■機械学習②：NMF(非負値行列因子分解)　　
