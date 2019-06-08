@@ -9,6 +9,13 @@ CH4
 
 https://colab.research.google.com/drive/1Op7wyytO3Fo6zyHHvdQwgMbIxgpXixQK
 
+CH5
+
+https://colab.research.google.com/drive/19qc6wMP4lWqeRhDNvCgRQzp4auTjU7bo
+
+CH6
+
+https://colab.research.google.com/drive/1CX5PJClKYvbYBh6rvPJWsmSkEB0caEZy
 
 
 
