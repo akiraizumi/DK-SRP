@@ -2,9 +2,13 @@
 Medical data scientist educational program at KYOTO University.
 
 CH3
+
 https://colab.research.google.com/drive/1VJxkQDb2LcbSgRcOcb4tJ-Hft491ucT8
+
 CH4
+
 https://colab.research.google.com/drive/1Op7wyytO3Fo6zyHHvdQwgMbIxgpXixQK
+
 
 
 
