@@ -4,7 +4,7 @@ Medical data scientist educational program at KYOTO University.
 
 ------------------可視化------------------
 
-■講義用 *@@の部分をご自身でコーディングしてください
+■講義用    「@@」の部分をご自身でコーディングしてください
 
 https://colab.research.google.com/drive/1bw4-RnmvDqz8pqxPBnhu8zUVXvva59ym
 
