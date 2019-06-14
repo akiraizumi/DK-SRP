@@ -1,24 +1,6 @@
 # DK-SPR
 Medical data scientist educational program at KYOTO University.
 
-CH3
-
-https://colab.research.google.com/drive/1VJxkQDb2LcbSgRcOcb4tJ-Hft491ucT8
-
-CH4
-
-https://colab.research.google.com/drive/1Op7wyytO3Fo6zyHHvdQwgMbIxgpXixQK
-
-CH5
-
-https://colab.research.google.com/drive/19qc6wMP4lWqeRhDNvCgRQzp4auTjU7bo
-
-CH6
-
-https://colab.research.google.com/drive/1CX5PJClKYvbYBh6rvPJWsmSkEB0caEZy
-
-
-
 ------------------可視化------------------
 
 ■講義用    「@@」の部分をご自身でコーディングしてください
