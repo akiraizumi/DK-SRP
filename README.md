@@ -3,7 +3,7 @@ Medical data scientist educational program at KYOTO University.<br>
 
 
 ------------------可視化------------------<br>
-https://colab.research.google.com/drive/10e2mukFAyt2ORmCvoH4BsylkftubZqbt?hl=ja
+https://colab.research.google.com/drive/1S1RvFyULycGKHB9bQtDOIqzrDye-wbRU#scrollTo=ziMG6D9TlnLk
 
 ---------------ビッグデータハンドリング---------<br>
 
